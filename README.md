@@ -1,7 +1,7 @@
 # FYLE_Arpit
 # Digital Marketing Agency Website
 
-This project is a digital marketing agency website built with HTML, CSS, and JavaScript, utilizing Bootstrap for responsive design. The website includes sections such as Hero, Services, Clients, Testimonials, FAQ, and a contact form.
+This project is a digital marketing agency website built with HTML, CSS, and JavaScript, utilizing Bootstrap for responsive design. The website includes sections such as Hero, Services, Clients, and a contact form.
 
 ## Table of Contents
 
