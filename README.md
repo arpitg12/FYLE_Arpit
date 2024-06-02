@@ -42,8 +42,6 @@ Ensure you have the following installed on your development machine:
 - **Hero Section**: Displays a prominent introduction to the agency with a contact button.
 - **Services Section**: Showcases the various services offered by the agency.
 - **Clients Section**: Displays logos of notable clients.
-- **Testimonials Section**: Includes testimonials from satisfied clients.
-- **FAQ Section**: Provides answers to frequently asked questions.
 - **Contact Form**: Allows users to get in touch with the agency.
 
 ## Dependencies
